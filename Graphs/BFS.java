@@ -1,5 +1,4 @@
 class Solution {
-    // Function to return Breadth First Traversal of given graph.
     ArrayList<Integer> ans;
     Queue<Integer> q;
     
